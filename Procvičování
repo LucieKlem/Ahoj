@@ -1,1 +1,4 @@
 Ahoj
+#přidání textu
+
+print("Ahoj")
